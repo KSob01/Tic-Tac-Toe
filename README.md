@@ -1,9 +1,13 @@
 # Tic-Tac-Toe
 There are 3 options to play (Press 1, 2 or 3):
 - 2 users (starts with X)
-![](gifs/multiplayer.gif)
+
+    ![](gifs/multiplayer.gif)
+
 - with computer (random moves)
+
     ![](gifs/with_computer.gif)
+
 - resume stopped game
     ![](gifs/resume.gif)
 
