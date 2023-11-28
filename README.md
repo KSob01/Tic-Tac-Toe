@@ -9,6 +9,7 @@ There are 3 options to play (Press 1, 2 or 3):
     ![](gifs/with_computer.gif)
 
 - resume stopped game
+
     ![](gifs/resume.gif)
 
 To stop game use CRL+C, history is stored in a file (default `last_game.txt` - may be changed to `~/last_game.txt`) 
