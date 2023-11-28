@@ -187,7 +187,7 @@ trap_ctrlC() {
 }
 
 printf "Hello! Choose option \n 1. Play with collegue\n 2. Play with computer\n"
-FILE=~/last_game.txt
+FILE=last_game.txt
 if test -f "$FILE"; 
 then
     printf " 3. Resume previous game\n"
